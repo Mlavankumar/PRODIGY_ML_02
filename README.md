@@ -1,5 +1,3 @@
-# PRODIGY_ML_02
-This project uses K-Means clustering to segment retail customers based on Age, Annual Income, and Spending Score. It helps businesses understand customer behavior for targeted marketing and improved customer experience.
 # PRODIGY_ML_02 - Customer Segmentation using K-Means Clustering
 
 This project applies the K-Means Clustering algorithm to segment customers of a retail store based on their Age, Annual Income, and Spending Score. It enables businesses to understand different customer groups and make data-driven decisions for marketing and service strategies.
